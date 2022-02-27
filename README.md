@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @pybotsimualtion PyBotSimulation
+- 👋 Hi, I'm @pybotsimulation PyBotSimulation
 - 👀 I'm intrested in mBot, in Makeblock, in Python , in HTML/CSS/JS
 - 🌱 I’m currently learning Makeblock and Python .
 - 📫 You can reach me at pybotsimulation@gmail.com .
